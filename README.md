@@ -1,5 +1,5 @@
 # Doubly Circular Link List
- A doubly circular linked list implementation in C++ with essential functions for seamless manipulation of the list. This versatile data structure provides efficient insertion, deletion, printing, and swapping of elements.
+ A doubly circular linked list implementation in JAVA with essential functions for seamless manipulation of the list. This versatile data structure provides efficient insertion, deletion, printing, and swapping of elements.
 
 Features:
 

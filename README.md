@@ -1,24 +1,24 @@
 # Doubly Circular Link List
- A doubly circular linked list implementation in JAVA with essential functions for seamless manipulation of the list. This versatile data structure provides efficient insertion, deletion, printing, and swapping of elements.
+ A doubly circular linked list implementation in JAVA with essential functions for seamless manipulation of the list. This versatile data structure provides efficient insertion, deletion, printing, and swapping of elements.\
 
-Features:
+Features:\
 
-Insertion:
+Insertion:\
 
-insertFront: Insert a new element at the beginning of the list.
-insertEnd: Insert a new element at the end of the list.
-insertAfter: Insert a new element after a specific node.
+insertFront: Insert a new element at the beginning of the list.\
+insertEnd: Insert a new element at the end of the list.\
+insertAfter: Insert a new element after a specific node.\
 
-Deletion:
+Deletion:\
 
-deleteFront: Delete the first element in the list.
-deleteEnd: Delete the last element in the list.
-deleteNode: Delete a specific node in the list.
+deleteFront: Delete the first element in the list.\
+deleteEnd: Delete the last element in the list.\
+deleteNode: Delete a specific node in the list.\
 
-Printing:
+Printing:\
 
-printList: Print the elements of the list in forward and backward directions.
+printList: Print the elements of the list in forward and backward directions.\
 
-Swapping Elements:
+Swapping Elements:\
 
-swapNodes: Swap two nodes in the list, preserving the circular structure.
+swapNodes: Swap two nodes in the list, preserving the circular structure.\
